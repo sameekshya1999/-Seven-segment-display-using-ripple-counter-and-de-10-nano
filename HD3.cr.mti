@@ -1,0 +1,8 @@
+/home/sam/Desktop/HD3/HD3.v {1 {vlog -work work -stats=none /home/sam/Desktop/HD3/HD3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HD3
+
+Top level modules:
+	HD3
+
+} {} {}}
